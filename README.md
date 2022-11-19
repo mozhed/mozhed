@@ -25,9 +25,9 @@
 
 
 
-## 📊 Github Stats
+## Github Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b>
   
   <br/>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mozhed&theme=vision-friendly-dark" alt="mozhed" /></p>
