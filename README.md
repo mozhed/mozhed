@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=merhanmostafa47&label=Profile%20views&color=0e75b6&style=flat" alt="Merhan Mostafa" /> 
-	<!--<img src="https://badges.pufler.dev/repos/merhanmostafa47" alt="Merhan Mostafa" />-->
-	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
+	<img src="https://komarev.com/ghpvc/?username=merhanmostafa47&label=Profile%20views&color=0e75b6&style=flat" alt="mozhed" /> 
+	<!--<img src="https://badges.pufler.dev/repos/merhanmostafa47" alt="mozhed" />-->
+	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="mozhed" />
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F/merhanmostafa47/1212%2Fhit-counter" alt="Merhan Mostafa" />
 </p>
 <br>
