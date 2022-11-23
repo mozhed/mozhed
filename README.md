@@ -3,7 +3,9 @@
 <h3 align="center">Front End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozhed&label=Profile%20views&color=0e75b6&style=flat" alt="mozhed" /> </p>
+<a align="left" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mozhed&label=Profile%20Views&color=12&icon=1&pretty=true" />
+</a>
 
 
 - 🌱 I’m currently learning **JavaScript, React, NodeJS**
