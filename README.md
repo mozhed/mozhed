@@ -37,11 +37,6 @@
   
   <br/>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mozhed&theme=vision-friendly-dark" alt="mozhed" /></p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mozhed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mozhed&show_icons=true&count_private=true&theme=vision-friendly-dark" height="192px"/></a>
-<br/>
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mozhed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mozhed" height="182x"/>
   <br/>
   </p>
  
